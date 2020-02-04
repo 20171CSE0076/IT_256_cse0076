@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>activity2</title>
+</head>
+<body bgcolor="red">
+<h1 align="center">Submission Status</h1>
+<br/>
+<p  title="assignment"><b><l>assignment submission is succesfull</b></l></p>
+<p> the grade will be updated soon</p>
+<hr/>
+<p align="right"><b>thank you</b></p>
+</body>
+</html>
